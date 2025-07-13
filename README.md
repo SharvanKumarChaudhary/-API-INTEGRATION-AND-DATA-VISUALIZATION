@@ -1,11 +1,11 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
 
-COMPANY: CODTECH IT SOLUTIONS
-NAME: SHARVAN KUMAR CHAUDHARY
-INTERN ID: CTO4DG228
-DOMAIN: PYTHON PROGRAMMING
-DURATION: 4 WEEKS
-MENTOR: NEELA SANTHOSH KUMAR
+*COMPANY* :- CODTECH IT SOLUTIONS
+*NAME* :- SHARVAN KUMAR CHAUDHARY
+*INTERN ID* :- CTO4DG228
+*DOMAIN* :- PYTHON PROGRAMMING
+*DURATION* :- 4 WEEKS
+*MENTOR* :- NEELA SANTHOSH KUMAR
 
 ## The task of the CodTech Python internship involved creating a project that integrates with an API and visualizes data using Python. The main goal was to retrieve real-time weather data from a public API, like OpenWeatherMap, process that data, and create visual representations using libraries such as Matplotlib and Seaborn. 
 
