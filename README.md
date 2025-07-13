@@ -16,13 +16,15 @@
 
 ## Tools used :-
 PYTHON :- The primary programming language for the project.
+
 Requests Library :- Matplotlib.pyplot and seaborn for plotting.
 
 ## Platform used :- 
 VS Code :- used for writing and tasting python code.
+
 OpenWeatherMap API :- Public Api platform used to fetch real-time weather forecast data.
 
 ## Where this task is applicable :-
 1. Weather Forecasting Applications
-2. Data Analysis Projects
-3. API-Based Software Development
+3. Data Analysis Projects
+4. API-Based Software Development
