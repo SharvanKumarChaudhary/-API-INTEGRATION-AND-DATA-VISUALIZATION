@@ -28,3 +28,7 @@ OpenWeatherMap API :- Public Api platform used to fetch real-time weather foreca
 1. Weather Forecasting Applications
 3. Data Analysis Projects
 4. API-Based Software Development
+
+## OUTPUT :-
+
+<img width="1916" height="930" alt="Image" src="https://github.com/user-attachments/assets/15ec605f-e95b-41d0-9811-917c4b7998ae" />
