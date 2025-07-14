@@ -17,7 +17,7 @@
 ## Tools used :-
 PYTHON :- The primary programming language for the project.
 
-Requests Library :- Matplotlib.pyplot and seaborn for plotting.
+Library :- Matplotlib.pyplot and seaborn for plotting.
 
 ## Platform used :- 
 VS Code :- used for writing and tasting python code.
